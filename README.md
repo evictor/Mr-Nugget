@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @Mr-Nugget
-- 👀 I’m interested in watching football and playing pool
-- 🌱 I’m currently learning CSE from IIIT Delhi
-- 💞️ I’m looking to collaborate on DataStructures and Algorithms
-
-
-
+Inquiry into Mr. Nugget GitHub org for business by the same name, see home page https://mrnuggetdelivers.com/.
